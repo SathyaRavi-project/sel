@@ -9,6 +9,8 @@ public class Selenium {
 				"C:\\Users\\Hemanath\\eclipse-workspace\\Automation\\Driver\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.facebook.com/");
+		
+		//test
 
 	}
 
